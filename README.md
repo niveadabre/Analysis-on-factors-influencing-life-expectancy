@@ -1,4 +1,15 @@
 ## Analysis-on-factors-influencing-life-expectancy
+## Project Group members:
+Name| email address
+----|----------------
+Nivea Dabre| nivea.dabre@rutgers.edu
+Pooja Desai| pooja.desai25@rutgers.edu
+Twinkle Motwani| twinkle.motwani@rutgers.edu
+
+## Problem Statement:
+### 
+
+##
 
  Variable Name| Description| Datatype| Accepts Null Values
  --------------|-------------|----------|--------------------
