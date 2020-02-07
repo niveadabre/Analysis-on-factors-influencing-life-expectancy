@@ -1,9 +1,9 @@
 ## Project Topic : Multivariate-analysis-on-factors-influencing-life-expectancy
 
-## Data Set Description:
+## Data Set Description :
 #### The dataset is taken from the Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The data is from year 2000-2015 for 193 countries.
 
-## Problem Statement:
+## Problem Statement :
 #### The various factors affecting life expectancy like demographic variables, income composition, mortality rates, immunization, human development index, social and economic factors. 
 
 ## Questions to be addressed :
@@ -14,7 +14,7 @@
 
 
 
-## Project Group members:
+## Project Group members :
 Name| email address
 ----|----------------
 Nivea Dabre| nivea.dabre@rutgers.edu
@@ -22,8 +22,9 @@ Pooja Desai| pooja.desai25@rutgers.edu
 Twinkle Motwani| twinkle.motwani@rutgers.edu
 
 
+## Data set Dictionary :
 
- Variable Name| Description| Datatype| Accepts Null Values
+Variable Name| Description| Datatype| Accepts Null Values
  --------------|-------------|----------|--------------------
  Country|Country Name| Object|N
  Year| Year|Object|N
