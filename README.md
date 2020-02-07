@@ -6,7 +6,7 @@
  Year| Year|Object|N
  Status|Developed or Developing|Object|N
  Life Expectancy| Life expectancy in age|Object|N
- Adult Mortality|Probability of dying between 15 and 60 years per 1000 population|N
+ Adult Mortality|Probability of dying between 15 and 60 years per 1000 population|Object|N
  infant deaths|Number of infant deaths per 1000 population|Object|N
  Alcohol|recorded per capita consumption(in litres)|Object|N
  percentage expenditure| Expendidture on health as per GDP(%)|Object|N
