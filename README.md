@@ -1,4 +1,4 @@
-## Project Topic: Multivariate-analysis-on-factors-influencing-life-expectancy
+## Project Topic : Multivariate-analysis-on-factors-influencing-life-expectancy
 
 ## Data Set Description:
 #### The dataset is taken from the Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The data is from year 2000-2015 for 193 countries.
