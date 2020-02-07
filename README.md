@@ -1,16 +1,16 @@
 ## Project Topic: Multivariate-analysis-on-factors-influencing-life-expectancy
 
 ## Data Set Description:
-### The dataset is taken from the Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The data is from year 2000-2015 for 193 countries.
+#### The dataset is taken from the Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The data is from year 2000-2015 for 193 countries.
 
 ## Problem Statement:
-### The various factors affecting life expectancy like demographic variables, income composition, mortality rates, immunization, human development index, social and economic factors. 
+#### The various factors affecting life expectancy like demographic variables, income composition, mortality rates, immunization, human development index, social and economic factors. 
 
 ## Questions to be addressed :
-### 1. How does immunization affect life expectancy rate?
-### 2. Which country should be given priority in order to improvise their life expectancy rate?
-### 3. Does life expectancy has any correlation with eating habits, lifestyle, exercise, smoking or drinking alcohol?
-### 4. What measures should a country take in order to increase its healthcare expenditure to improve its average lifespan?
+#### 1. How does immunization affect life expectancy rate?
+#### 2. Which country should be given priority in order to improvise their life expectancy rate?
+#### 3. Does life expectancy has any correlation with eating habits, lifestyle, exercise, smoking or drinking alcohol?
+#### 4. What measures should a country take in order to increase its healthcare expenditure to improve its average lifespan?
 
 
 
